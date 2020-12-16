@@ -1,4 +1,7 @@
-# Hello, I'm Brena! &#127808;
+## Hello, I'm Brena! &#127808;
+
+<h4>Sou estudante de Gestão em Tecnologia da Informação e estou em busca da minha primeira experiência profissional na área de Desenvolvimento.
+Estarei compartilhando diariamente a minha evolução aqui na rede! &#127919;</h4>
 
 
 <!--
