@@ -2,7 +2,7 @@
 
 <h4>Sou estudante de Gestão em Tecnologia da Informação e estou em busca da minha primeira experiência profissional na área de Desenvolvimento.<p>
 Estarei compartilhando diariamente a minha evolução aqui na rede! &#127919;</h4></p>
-
+/*
 Certificados: 
 
 <p> <a href="https://certificates.digitalinnovation.one/58DD0BA1">- Lógica de programação essencial </a> </p>
@@ -10,7 +10,7 @@ Certificados:
 <p><a href = "https://certificates.digitalinnovation.one/78FC3DEB">- Programação para internet com JavaScript </a> </p>
 <!--
 **brenaribeiro/brenaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+*/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
